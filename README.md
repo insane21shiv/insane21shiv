@@ -1,4 +1,4 @@
-![logo](https://www.wallpaperflare.com/static/881/351/593/insane-game-2015-volition-incorporated-wallpaper-preview.jpg)
+<img align="center" alt="coding" width="200" src="https://www.wallpaperflare.com/static/881/351/593/insane-game-2015-volition-incorporated-wallpaper-preview.jpg">
 <h1 align="center">Hi 👋, I'm Shivendra Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India. Love to explore new technologies daily. Also have interest in Cloud Computing.</h3>
 
