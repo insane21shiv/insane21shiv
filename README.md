@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insane21shiv&label=Profile%20views&color=0e75b6&style=flat" alt="insane21shiv" /> </p>
 
-- 🌱 I’m currently learning **Back-end technologies and some of cloud computing technologies.**
+- 🌱 I’m currently learning **pursing BTech in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University.**
 
 - Made a portfolio website using HTML, CSS and JavaScript [Portfolio Website](http://insaneshiv21.me/portfolio/)
 
