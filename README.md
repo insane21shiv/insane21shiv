@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="280" src="https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif">
+<img align="left" alt="coding" width="250"  src="https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif">
 <h1 align="center">Hi 👋, I'm Shivendra Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India. Love to explore new technologies daily. Also have interest in Cloud Computing.</h3>
 
