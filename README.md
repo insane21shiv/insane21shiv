@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="280" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6430073-Video-and-Chat-in-Computer-GIF&psig=AOvVaw2egIhD8Vg0wlas72A0K9qh&ust=1690141600045000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDK8Z-Ko4ADFQAAAAAdAAAAABAE">
+<img align="left" alt="coding" width="280" src="https://dribbble.com/shots/6430073-Video-and-Chat-in-Computer-GIF/attachments/6430073-Video-and-Chat-in-Computer-GIF?mode=media">
 <h1 align="center">Hi 👋, I'm Shivendra Kumar Singh</h1>
 <h3 align="center">A passionate frontend developer from India. Love to explore new technologies daily. Also have interest in Cloud Computing.</h3>
 
