@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently **pursing BTech in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University.**
 
-- Made a portfolio website using HTML, CSS and JavaScript [Portfolio Website](http://insaneshiv21.me/portfolio/)
+- Made a portfolio website using HTML, CSS and JavaScript [Portfolio Website](https://shiv21portfolio.netlify.app/)
 
-- Made a website using ReactJS [Expense Tracker](http://insaneshiv21.me/react-expense-tracker/)
+- Made a website using ReactJS [Expense Tracker](https://shivexpensetracker.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [http://insaneshiv21.me/portfolio/](http://insaneshiv21.me/portfolio/)
+- 👨‍💻 All of my projects are available at [https://shiv21portfolio.netlify.app/](https://shiv21portfolio.netlify.app/)
 
 - 👨‍💻 Visit my LinkedIn Profile to know more about me. [www.linkedin.com/in/shivendra-kumar-singh-7ba1b8208](www.linkedin.com/in/shivendra-kumar-singh-7ba1b8208)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eI4MNE9iJkhQHf5EpOvhOiye2sHPqmRq/view?usp=drivesdk](https://drive.google.com/file/d/1eI4MNE9iJkhQHf5EpOvhOiye2sHPqmRq/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wDR2nvspQq1gbVW8g8Y_o_hnc_XZGJhf/view?usp=drive_link](https://drive.google.com/file/d/1wDR2nvspQq1gbVW8g8Y_o_hnc_XZGJhf/view?usp=drive_link)
 
 - ⚡ Hobbies **are drawing, listening songs and playing mobile games.**
 
